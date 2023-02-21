@@ -34,10 +34,8 @@ I created my low budget of 1$.
 
 ![Image of the AWS Budget](assets/week0_budget.png)
 
-I have created a billing alarm and budget only via AWS console. 
+I have created a billing alarm and budget only via AWS console, which I was somehow familiar with.
 
-For a future reference, I added the template file in the repo ![json file](https://github.com/zenmaestr0/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm_config.json) so that I can create an alarm via AWS CLI in the following weeks.
-
-
+For a future reference, I added the template file in the repo ![json file](https://github.com/zenmaestr0/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm_config.json) so that I can create an alarm via AWS CLI.
 
 
